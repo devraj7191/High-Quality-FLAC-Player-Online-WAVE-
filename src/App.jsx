@@ -36,7 +36,7 @@ const NAVIDROME_PORT = "4533";
 const NAVIDROME_USER = "DevRaj";
 const NAVIDROME_PASS = "2026";
 const API_PARAMS = `u=${NAVIDROME_USER}&p=${NAVIDROME_PASS}&v=1.16.1&c=fl4me`;
-const NAVIDROME_URL = "https://uplifted-facelift-scanning.ngrok-free.dev";
+const NAVIDROME_URL = "[https://uplifted-facelift-scanning.ngrok-free.dev/rest/getRandomSongs?size=](https://uplifted-facelift-scanning.ngrok-free.dev/rest/getRandomSongs?size=)...";
 
 const INITIAL_PROFILE = { artistWeights: {}, albumWeights: {}, trackHistory: [], trackStats: {} };
 
